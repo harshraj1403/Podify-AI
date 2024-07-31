@@ -11,7 +11,7 @@ const nextConfig = {
         },
         {
           protocol: 'https',
-          hostname: 'sleek-capybara-771.convex.cloud'
+          hostname: 'ardent-kudu-945.convex.cloud'
         },
         {
           protocol: 'https',
